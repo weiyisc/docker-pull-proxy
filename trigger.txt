@@ -1,1 +1,2 @@
 nginx:alpine registry.cn-chengdu.aliyuncs.com/gzhtwy/nginx:alpine
+mysql:8 registry.cn-chengdu.aliyuncs.com/gzhtwy/mysql:8
