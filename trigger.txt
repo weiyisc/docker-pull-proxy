@@ -1,1 +1,1 @@
-mysql:latest registry.cn-chengdu.aliyuncs.com/gzhtwy/mysql:latest
+mysql:8.0 registry.cn-chengdu.aliyuncs.com/gzhtwy/mysql:8.0
